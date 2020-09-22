@@ -1,0 +1,3 @@
+I needed to run a list of MARC 008_15-17 (Place of publication, production, or execution) codes against the current authoritative list published on the LC Website at https://www.loc.gov/marc/countries/countries_code.html
+Current valid codes (I deleted all obsolete codes) are saved in the ccodes.txt file. A sample list of MARC codes from my records is saved in the marc.txt file. 
+Running the script returns all invalid codes to the screen
