@@ -83,7 +83,7 @@ fg\
 fi\
 fj\
 fk\
-flu\
+flu
 fm\
 fp\
 fr\
